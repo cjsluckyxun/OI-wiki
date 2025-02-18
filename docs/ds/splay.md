@@ -93,7 +93,7 @@ Splay 操作即对 $x$ 做一系列的 **splay 步骤**。每次对 $x$ 做一�
 
     ![splay-zig-zig](./images/splay-zig-zig.svg)
 
-    即首先将 $g$ 左旋或右旋，然后将 $x$ 右旋或左旋（图 3, 4）。
+    即首先将 $p$ 左旋或右旋，然后将 $x$ 左旋或右旋（图 3, 4）。
 
     ![图 3](./images/splay-rotate3.svg)
 
